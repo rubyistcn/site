@@ -1,8 +1,7 @@
 ---
 title: Jekyll Compose —— Jekyll 之笔
 date: 2023-01-10 17:14 +0800
-categories:
-  - blog
+category: gem
 tag:
   - jekyll
   - gem
