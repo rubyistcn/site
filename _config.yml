@@ -46,7 +46,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Huang Fei Long"
+  name   : "Huang Fei-Long"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "我不是程序员，但是喜欢 Ruby 语言，喜欢 Ruby 编写程序的优雅和快乐。"
   links:
