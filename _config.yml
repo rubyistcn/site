@@ -1,4 +1,4 @@
-title: Rubyist 成长记
+title: Rubyist 长成记
 subtitle: Ruby 编程学习记录
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -50,9 +50,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "我不是程序员，但是喜欢 Ruby 语言，喜欢 Ruby 编写程序的优雅和快乐。"
   links:
-    - label: "Website"
+    - label: "网站"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://rubyist.cn"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
