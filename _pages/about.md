@@ -1,8 +1,15 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+[Ruby](https://ruby-lang.org/)，这里指的是 Ruby 语言——一种计算机程序编写语言。
+在 Ruby 语言网站宣称——“Ruby 是程序员最好的朋友”。这是从编程语言使用者
+（不一定都是专业程序员）的角度出发来描述 Ruby 语言的使用感受的。Ruby 语言，
+虽然有自己的语法规则，但都是以接近人类自然语言（英语）使用的习惯来进行操作
+的，所以，在很多时候，您的猜测，往往就是 Ruby 的语法和操作，所以，Ruby 就像
+您的好朋友，能够理解您的想法，使您和程序能够顺畅交流，亲密合作。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+所以，如果您在日常工作和学习中，需要处理一些文字或者数据，而且多是一些重复
+性的工作，仅就可以试试使用 Ruby 进行编程处理。或者如果您了解编程，想要试试
+更具亲和力的编程语言，也可以是是 Ruby！
