@@ -1,12 +1,15 @@
 ---
-title: "Welcome to Jekyll!"
+title: "欢迎来到 Jekyll！"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
   - Jekyll
-  - update
+  - gem
+  - 静态网站
 ---
+
+Jekyll 是一款基于 Ruby 构建的静态网站生成系统，它通过 Ruby 内核和 Liquid 模板系统构建了动态管理、静态输出的网站系统。文章内容使用 Markdown 格式编写，通过元数据构建必要的数据网络。下面是 Jekyll 的默认输出网站，默认的主题使用的是 `minimal`。
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
