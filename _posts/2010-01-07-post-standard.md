@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Post: 标准模式"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -15,7 +15,7 @@ Mrs. Darling first heard of Peter when she was tidying up her children's minds. 
 
 <!--more-->
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+此文章在第二段后有一个手动摘要 `<!--more-->` 设置。下列 YAML Front Matter 将被启用：
 
 ```yaml
 excerpt_separator: "<!--more-->"

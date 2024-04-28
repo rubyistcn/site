@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Post: 警示"
 categories:
   - Blog
 tags:
@@ -7,9 +7,9 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+警示是对于内容相关信息的提醒。常用于对于特定细节的提示。
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+在一个 `<p></p>` 元素后面添加 `.notice`，使用 kramdown 的 `{: .notice}` 即可完成。
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
@@ -29,7 +29,7 @@ When using Kramdown `{: .notice}` can be added after a sentence to assign the `.
 **Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
 {: .notice--success}
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
+如果想要在一个警示中包含几个段落或者其他元素？可以使用 Liquid 的 `capture` 来获取内容，然后用 `markdownify` 引用内容即可。
 
 ```html
 {% raw %}{% capture notice-2 %}
@@ -53,7 +53,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
   {{ notice-2 | markdownify }}
 </div>
 
-Or you could skip the capture and stick with straight HTML.
+或者直接使用 HTML。
 
 ```html
 <div class="notice">
