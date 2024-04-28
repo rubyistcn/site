@@ -1,7 +1,7 @@
 ---
 title: "Post: 引用"
 categories:
-  - Blog
+  - blog
 tags:
   - Post Formats
   - quote

@@ -2,7 +2,7 @@
 title: "Post: 标准模式"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - Post Formats
   - readability

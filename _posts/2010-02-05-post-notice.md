@@ -1,7 +1,7 @@
 ---
 title: "Post: 警示"
 categories:
-  - Blog
+  - blog
 tags:
   - Post Formats
   - notice
