@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Huang FeiLong"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ruby 是程序员最好的朋友。Ruby 编程，优雅、自然。"
+  name   : "hfl"
+  avatar : "/assets/images/rubyist.png"
+  bio    : "Ruby 是程序员最好的朋友——Ruby 编程，优雅、自然。"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
