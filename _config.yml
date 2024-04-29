@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rubyist
-subtitle: Ruby is smart tool
+subtitle: The Well-Grounded Rubyist
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   以优雅、自然的方式编写程序。
